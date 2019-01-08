@@ -1,0 +1,13 @@
+*{margin:0;padding:0}
+
+body{
+    font-size:44px;line-height:60px;
+    text-align:center;color:white;
+}
+
+
+#login{background:blue;height:300px;}
+#register{background:orange;height:300px;}
+
+#btn_login{color:blue;width:120px;line-height:40px;margin:15px;font-size:22px;}
+#btn_register{color:orange;width:120px;line-height:40px;margin:15px;font-size:22px;}
